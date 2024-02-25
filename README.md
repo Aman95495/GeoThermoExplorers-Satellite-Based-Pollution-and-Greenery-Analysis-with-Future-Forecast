@@ -6,6 +6,43 @@ This project makes use of Google Earth Engine, a cutting-edge technological tool
 
 The GeoThermoExplorers project started because we wanted to tackle big problems like pollution and the decreasing green areas worldwide. We know these issues seriously affect people's health, nature, and the planet's overall well-being. So, our team decided to use advanced satellite technology to closely watch and understand environmental issues. Our project focuses on studying pollution and greenery with the help of satellites and predicting what might happen in the future. We want to share important information to help discussions about making the world more sustainable and protecting the environment. We feel an urgent need to learn, predict, and find ways to deal with pollution and the loss of green spaces. That's why we built a smart system that not only keeps an eye on what's happening now but also tells us what might happen later. Our main goal is to give valuable information to governments, organizations, and communities so they can make smart decisions and work together for a healthier and more sustainable future.
 
+# Directory Structure
+
+## 1. Result_datasheets
+This folder contains CSV files with forecasted results.
+
+- **Full_Forecasting.csv**: Comprehensive CSV file containing the full set of forecasted results.
+- **forecasted_aqi.csv**: Forecasted Air Quality Index.
+- **forecasted_benzene.csv**: Forecasted Benzene levels.
+- **forecasted_co.csv**: Forecasted Carbon Monoxide levels.
+- **forecasted_factors.csv**: Forecasted factors data.
+- **forecasted_nh3.csv**: Forecasted Ammonia levels.
+- **forecasted_no.csv**: Forecasted Nitric Oxide levels.
+- **forecasted_no2.csv**: Forecasted Nitrogen Dioxide levels.
+- **forecasted_nox.csv**: Forecasted Nitrogen Oxides levels.
+- **forecasted_o3.csv**: Forecasted Ozone levels.
+- **forecasted_pm10.csv**: Forecasted Particulate Matter (PM10) levels.
+- **forecasted_pm25.csv**: Forecasted Particulate Matter (PM2.5) levels.
+- **forecasted_so2.csv**: Forecasted Sulfur Dioxide levels.
+- **forecasted_toluene.csv**: Forecasted Toluene levels.
+- **forecasted_xylene.csv**: Forecasted Xylene levels.
+
+## 2. Results
+This folder contains various types of results.
+
+- **Collective_Results**: Aggregated results.
+- **Curves**: Graphical curves related to forecasting.
+- **Forecasting**: Additional forecasting information.
+- **GEE**: Data related to Geospatial Environmental Evaluation.
+- **Histogram_BoxPlot_DensityPlot**: Visualizations in the form of histograms, box plots, and density plots.
+- **Scatter_Plot**: Scatter plots for visualization.
+
+## 3. Source_Code
+This folder contains the source code for the project.
+
+## 4. Source_datasheets
+This folder contains additional source data sheets used in the project.
+
 Visualization of various Factors That affect Pollution
 
 # 1.AQI_BUCKET_VIzwalization.png:
